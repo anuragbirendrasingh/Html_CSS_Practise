@@ -94,7 +94,3 @@ Event loop animation (I’ll show it when we reach here)
 
 ---
 
-If you’re in, we’ll start **Day 1: “Lexical Scope & First Closure”** tomorrow —
-with visuals, mental models, and 2 small tasks.
-
-Bata bhai — start karte hain from tomorrow as **Day 1 of Closures + Event Loop Deep Dive?**
